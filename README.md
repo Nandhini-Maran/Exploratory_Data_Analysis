@@ -29,7 +29,8 @@ The following **Python** libraries are used:
    - 📊 Descriptive statistics  
    - 📉 Distribution of numerical & categorical variables  
    - 🔗 Correlation analysis  
-   - ⚠️ Outlier detection  
+   - ⚠️ Outlier detection
+
 4️⃣ **Data Visualization**  
    - 📈 Histograms, box plots, and scatter plots  
    - 🔥 Heatmaps for correlation  
@@ -44,3 +45,7 @@ The following **Python** libraries are used:
 To run this notebook, install the required libraries:  
 ```sh
 pip install pandas numpy matplotlib seaborn
+Then, open the Jupyter Notebook and execute the cells sequentially.
+
+##🏁 Conclusion
+This EDA helps in understanding the dataset, identifying trends, and preparing the data for machine learning models or business insights.
