@@ -45,6 +45,7 @@ The following **Python** libraries are used:
 To run this notebook, install the required libraries:  
 ```sh
 pip install pandas numpy matplotlib seaborn
+```
 Then, open the Jupyter Notebook and execute the cells sequentially.
 
 ##🏁 Conclusion
